@@ -12,8 +12,7 @@ import com.waylau.spring.boot.blog.repository.CatalogRepository;
 /**
  * Catalog 服务.
  * 
- * @since 1.0.0 2017年4月10日
- * @author <a href="https://waylau.com">Way Lau</a>
+ * 
  */
 @Service
 public class CatalogServiceImpl implements CatalogService{

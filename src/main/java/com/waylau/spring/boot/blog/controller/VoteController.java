@@ -22,8 +22,7 @@ import com.waylau.spring.boot.blog.vo.Response;
 /**
  * 点赞控制器.
  * 
- * @since 1.0.0 2017年3月8日
- * @author <a href="https://waylau.com">Way Lau</a> 
+ * 
  */
 @Controller
 @RequestMapping("/votes")
